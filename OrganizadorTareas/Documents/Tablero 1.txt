@@ -1,0 +1,8 @@
+{
+    "name": "Tablero 1",
+    "lists": [{
+            "nameList": "",
+            "descList": ""
+        }
+    ]
+}
